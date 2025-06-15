@@ -22,7 +22,4 @@ A simple and efficient **Java-based Expense Tracker** that allows users to **add
 - **IDE:** Eclipse / VS Code  
 - **Concepts Used:** OOP, File I/O, Collections, Streams, Exception Handling
 
----
-
-## 📂 Project Structure
 
