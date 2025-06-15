@@ -1,0 +1,2 @@
+2025-06-15,food,200.00,at cafe
+2025-06-15,travel,500.00,from vande bharat

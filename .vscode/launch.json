@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "type": "java",
+      "name": "Launch Expense Tracker",
+      "request": "launch",
+      "mainClass": "expensetrack.Main",
+      "projectName": "ExpenseTracker"
+    }
+  ]
+}
